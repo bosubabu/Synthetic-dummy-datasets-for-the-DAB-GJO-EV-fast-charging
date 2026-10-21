@@ -1,0 +1,6 @@
+tuning_method,settling_time_s,peak_overshoot_percent,current_ripple_A_pp,tracking_error_A,efficiency_percent,data_status
+Manual trial-and-error,0.82,8.4,1.42,0.82,93.8,synthetic illustrative values
+Ziegler-Nichols,0.71,7.1,1.25,0.69,94.2,synthetic illustrative values
+Genetic Algorithm (GA),0.55,5.0,0.98,0.48,95.0,synthetic illustrative values
+Particle Swarm Optimization (PSO),0.49,4.3,0.87,0.39,95.4,synthetic illustrative values
+Golden Jackal Optimization (GJO),0.38,2.6,0.62,0.24,96.1,synthetic illustrative values
